@@ -21,15 +21,5 @@ I work on algorithms for large language models and related research/engineering 
 - GitHub: [XinSST](https://github.com/XinSST)  
 - Email: [ysxin@ssymmetry.com](mailto:ysxin@ssymmetry.com)
 
----
-
-## Projects
-_(Add project links and short descriptions here)_
-
-- Project A — short description and link  
-- Project B — short description and link
-
----
-
 ## Contact
 For inquiries or collaboration: [ysxin@ssymmetry.com](mailto:ysxin@ssymmetry.com)
